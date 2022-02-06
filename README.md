@@ -17,6 +17,7 @@
 
 * [Jhey Tompkins](https://jhey.dev/)
 * [Jonny McLaughlin](https://jonny.wtf/)
+* [Enjeck Cleopatra](https://gfolio.enjeck.com/)
 
 ## Well Structured Jr. Portfolio's
 
