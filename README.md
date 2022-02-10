@@ -1,6 +1,8 @@
 # Portfolios-that-pop
 ✨ Dev Portfolios that make your 👀  pop ✨
 
+If you think your portfolio pops or have a suggestion, make a pull request and we'll review it.
+
 ## 🤯 Portfolio's
 
 * [Christopher Cherupil](https://cherupil.com/)
