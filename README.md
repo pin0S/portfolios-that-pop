@@ -11,6 +11,7 @@ If you think your portfolio pops or have a suggestion, make a pull request and w
 ## Beautiful Design Portfolio's
 
 * [Jack Smethurst](https://www.jacksportfolio.com/)
+* [Vikas Ukani](https://vikas-ukani.github.io/)
 * [Casper Iversen](https://caspertheghost.me/)
 * [Shelby Kay](https://shelbykay.dev/)
 * [Naveen Shaji](https://naveen.io/)
